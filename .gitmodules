@@ -1,0 +1,3 @@
+[submodule "module/Stjornvisi"]
+	path = module/Stjornvisi
+	url = https://github.com/fizk/Stjornvisi.git
