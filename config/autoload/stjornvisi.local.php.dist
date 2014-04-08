@@ -1,0 +1,16 @@
+<?php
+	
+return array(
+	'db' =>array(
+		'dns' => 'mysql:dbname=[DATABASE];host=127.0.0.1',
+		'user' => '[USER]',
+		'password' => '[PASSWORD]'
+	),
+	'facebook' => array(
+		'appId' => '[APP ID]',
+		'secret' => '[SECRET]',
+		'fileUpload' => false, // optional
+		'allowSignedRequest' => false, // optional, but should be set to false for non-canvas apps
+		'redirect_uri' => 'http://[DOMAIN]/callback'
+  ),
+);
