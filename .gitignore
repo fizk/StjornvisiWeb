@@ -11,7 +11,7 @@ vendor/
 *.sublime-project
 *.sublime-workspace
 
-public/stjornvisi/
+public/stjornvisi
 .sass-cache
 .sass-cache/*
 
